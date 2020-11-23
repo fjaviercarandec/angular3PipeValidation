@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ejercicio3pipe"
+  "defaultProject": "ejercicio3pipe",
+  "cli": {
+    "analytics": false
+  }
 }
